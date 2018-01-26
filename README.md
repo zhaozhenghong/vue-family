@@ -1,6 +1,6 @@
-# vue-music
+# vue-family
 
-> 音乐播放器
+> 全家影像
 
 ## Build Setup
 
